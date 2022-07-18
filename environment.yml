@@ -1,0 +1,8 @@
+name: cheri
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - openai
+  - wandb
+prefix: C:\Anaconda\envs\cheri
