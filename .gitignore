@@ -1,1 +1,3 @@
 *.egg-info
+/data/openai_data
+/data/language_feedback_learning_dataset
